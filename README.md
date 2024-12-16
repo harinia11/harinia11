@@ -3,7 +3,6 @@
 <img align="center" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinia11&label=Profile%20views&color=0e75b6&style=flat" alt="harinia11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harinia11" alt="harinia11" /></a> </p>
 
 - 🔭 I’m currently working on [NeuroAssist Companion](https://github.com/harinia11/strokecare_ai)
 
